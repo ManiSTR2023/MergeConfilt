@@ -1,1 +1,1 @@
-This is merge conflit file
+City: Bangalore
